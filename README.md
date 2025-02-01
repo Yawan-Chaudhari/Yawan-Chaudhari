@@ -17,10 +17,11 @@
 
 - ⚡ Fun fact **I turn ideas into AI solutions faster than you can say "Machine Learning!" 😆**
 
+###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Yawan-Chaudhari&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
+###
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
