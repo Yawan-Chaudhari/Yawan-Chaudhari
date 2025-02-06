@@ -46,10 +46,7 @@
 ###
 <h3 align="left">🔥 My GitHub Stats:</h3>
 
-<div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yawan-Chaudhari&theme=dark&hide_border=false" height="200" alt="streak graph" />
-  
+<div align="center"> 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Yawan-Chaudhari&show_icons=true&theme=dark&hide_border=false" height="200" alt="GitHub stats" />
   
