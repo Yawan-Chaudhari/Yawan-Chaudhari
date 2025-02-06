@@ -44,11 +44,17 @@
 </div>
 
 ###
-
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥 My GitHub Stats:</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Yawan-Chaudhari&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yawan-Chaudhari&theme=dark&hide_border=false" height="200" alt="streak graph" />
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Yawan-Chaudhari&show_icons=true&theme=dark&hide_border=false" height="200" alt="GitHub stats" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yawan-Chaudhari&layout=compact&theme=dark&hide_border=false" height="200" alt="Top Languages" />
 </div>
 
 ###
